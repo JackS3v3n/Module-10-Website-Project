@@ -1,0 +1,10 @@
+/* Style the first item in the list */
+li:first-child {
+    color: blue;
+  }
+  
+  /* Style every third item in the list */
+  li:nth-child(3n) {
+    color: green;
+  }
+  
